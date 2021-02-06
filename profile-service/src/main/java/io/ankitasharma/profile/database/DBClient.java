@@ -2,7 +2,7 @@ package io.ankitasharma.profile.database;
 
 
 import com.mysql.cj.jdbc.MysqlDataSource;
-import io.interviewready.profile.models.Profile;
+import io.ankitasharma.profile.models.Profile;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Repository;
