@@ -1,7 +1,7 @@
-package io.interviewready.profile.controller;
+package io.ankitasharma.profile.controller;
 
-import io.interviewready.profile.database.DBClient;
-import io.interviewready.profile.models.Profile;
+import io.ankitasharma.profile.database.DBClient;
+import io.ankitasharma.profile.models.Profile;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
