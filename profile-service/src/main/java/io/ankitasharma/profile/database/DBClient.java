@@ -18,8 +18,8 @@ public class DBClient {
     public DBClient() throws SQLException {
         MysqlDataSource dataSource = new MysqlDataSource();
         dataSource.setURL("jdbc:mysql://localhost/profile_db");
-        dataSource.setUser("gaurav");
-        dataSource.setPassword("gaurav");
+        dataSource.setUser("hetvis");
+        dataSource.setPassword("hetvis123456");
         connection = dataSource.getConnection();
     }
 
