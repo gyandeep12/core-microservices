@@ -1,10 +1,10 @@
-package io.interviewready.profile;
+package io.ankitasharma.profile;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
-import io.interviewready.profile.models.serviceclient.Registration;
-import io.interviewready.profile.models.serviceclient.ServiceNode;
+import io.ankitasharma.profile.models.serviceclient.Registration;
+import io.ankitasharma.profile.models.serviceclient.ServiceNode;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
