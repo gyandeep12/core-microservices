@@ -1,4 +1,4 @@
-package io.interviewready.profile.database;
+package io.ankitasharma.profile.database;
 
 
 import com.mysql.cj.jdbc.MysqlDataSource;
