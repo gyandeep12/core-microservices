@@ -1,4 +1,4 @@
-package io.interviewready.profile.models;
+package io.ankitasharma.profile.models;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;
