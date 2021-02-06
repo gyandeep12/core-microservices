@@ -1,4 +1,4 @@
-package io.interviewready.profile.health;
+package io.ankitasharma.profile.health;
 
 import org.springframework.context.annotation.Lazy;
 import org.springframework.web.bind.annotation.GetMapping;
