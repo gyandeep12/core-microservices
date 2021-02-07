@@ -1,8 +1,8 @@
-package io.interviewready.registry.service;
+package io.ankitasharma.registry.service;
 
-import io.interviewready.registry.database.DBClient;
-import io.interviewready.registry.models.Registration;
-import io.interviewready.registry.models.ServiceNode;
+import io.ankitasharma.registry.database.DBClient;
+import io.ankitasharma.registry.models.Registration;
+import io.ankitasharma.registry.models.ServiceNode;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
