@@ -2,7 +2,7 @@ package io.ankitasharma.registry.database;
 
 
 import com.mysql.cj.jdbc.MysqlDataSource;
-import io.interviewready.registry.models.ServiceNode;
+import io.ankitasharma.registry.models.ServiceNode;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
