@@ -1,4 +1,4 @@
-package io.interviewready.registry.database;
+package io.ankitasharma.registry.database;
 
 
 import com.mysql.cj.jdbc.MysqlDataSource;
