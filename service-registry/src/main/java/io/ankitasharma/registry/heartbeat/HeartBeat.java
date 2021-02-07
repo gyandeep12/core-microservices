@@ -1,6 +1,6 @@
-package io.interviewready.registry.heartbeat;
+package io.ankitasharma.registry.heartbeat;
 
-import io.interviewready.registry.database.DBClient;
+import io.ankitasharma.registry.database.DBClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
